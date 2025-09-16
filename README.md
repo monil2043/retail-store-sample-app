@@ -35,7 +35,7 @@ This is a sample application designed to illustrate various concepts related to 
 - [Cleanup](https://github.com/LondheShubham153/retail-store-sample-app/blob/main/README.md#step-12-cleanup)
 - [Troubleshooting](#troubleshooting)
 
-## Overview
+## Overview1
 
 The Retail Store Sample App demonstrates a modern microservices architecture deployed on AWS EKS using GitOps principles. The application consists of multiple services that work together to provide a complete retail store experience:
 
